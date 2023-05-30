@@ -1,4 +1,4 @@
 Nombre: Caputo Mateo Ezequiel
-Profesor: Eduardo Zúñiga
-Compilador Usado: MinGW32
+| Profesor: Eduardo Zúñiga 
+| Compilador Usado: MinGW32
 
