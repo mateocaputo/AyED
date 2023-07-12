@@ -31,6 +31,5 @@ int main() {
    }
    pi *= 4;
    cout << "El valor de pi es: " << fixed <<  setprecision(6) << pi << endl;
-   cout << "Iteraciones realizadas: " << i;
    return 0;
 }
